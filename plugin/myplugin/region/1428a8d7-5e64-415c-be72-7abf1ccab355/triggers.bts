@@ -1,0 +1,4 @@
+REGION_ENTER {
+	Damage(damage = 10, entity = $obj1)
+	ReviveEntity(entity = $obj1, pos = { x = 5, y = 1, z = 3 })
+}

@@ -1,0 +1,7 @@
+REGION_ENTER {
+	Damage(damage = 10, entity = $obj1)
+	SetEntityPosition(entity = $obj1, map = "map001", pos = { x = 5.0, y = 1.0, z = 2.0 }, rp = 0, ry = 0)
+}
+
+REGION_LEAVE {
+}

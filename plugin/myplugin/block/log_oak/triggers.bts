@@ -1,0 +1,3 @@
+BLOCK_ON {
+	Damage(damage = 20, entity = $obj1)
+}
